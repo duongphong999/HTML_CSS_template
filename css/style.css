@@ -1,0 +1,137 @@
+body{
+    background-color: #ecf4fe;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+.text-color{
+    color: rgb(172,186,205);
+    font-weight: normal;
+}
+.text-h1{
+    color: #348aff;
+}
+.nav-item{
+    margin-top: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.nav-item a{
+    text-decoration: none;
+    color: black;
+}
+.nav-item a:hover{
+    color: blue;
+}
+.btn{
+    border-radius: 10px;
+}
+.text{
+    font-size: 450%;
+}
+.platform{
+    background-color: white;
+    color: #348aff;
+}
+.lorem{
+    margin-top: 10px;
+    color: rgb(172,186,205);
+}
+
+.index>h1{
+    color: #348aff;
+}
+.index>p{
+    color: rgb(172,186,205);
+}
+/* main */
+/* section-1 */
+.cards{
+    background: white;
+    border-radius: 10px;
+    width: 31%;
+    
+}
+.course-category{
+    background: #ecf4fe;
+    font-weight: normal;
+    font-size: 15px;
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    color: rgb(172,186,205);
+}
+.course-price{
+    color: #348aff;
+}
+.lessons{
+    color: rgb(172,186,205);
+    font-size: 15px;
+    font-weight: normal;
+
+
+}
+.rate{
+    font-size: 12px;
+    color: rgb(172,186,205);
+    font-weight: normal;
+    
+}
+.fa-star{
+    color: #348aff;
+}
+.next{
+    font-size: 35px;
+    color: #ecf4fe;
+}
+/* end */
+/* section-2 */
+.section-2{
+    margin-top: 100px;
+}
+/* section-3 */
+.card-image{
+    background: white;
+    border-radius: 10px;
+    width: 23%;
+}
+/* section-4 */
+.col-7{
+    position: relative;
+}
+.image1{
+    border-radius: 15px;
+    width: 100%;
+}
+.image2{
+    
+    width: 50%;
+    position: relative;
+    top:-150px;
+    left: -100px;
+    border: 20px solid #ecf4fe;
+    border-radius:20px ;
+}
+
+.fa-check-circle{
+    color: #348aff;
+}
+/* footer */
+.register{
+    height: 200px;
+    background: #348aff;
+    border-radius: 10px;
+}
+.register h1{
+    color: white;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.register p{
+    color: white;
+    margin-top: 10px;
+    font-weight: normal;
+    margin-left: 15px;
+}
+.register div>button{
+    margin:80px 70px;
+}
